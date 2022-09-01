@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   },
   container: {
     width: '100%',
-    height: windowHeight - (windowHeight % 40),
+    height: windowHeight - 70,
   },
   uiContainer: {
     height: '100%',
