@@ -23,16 +23,21 @@
     
         
    __Clone this project__
+   
       git clone https://github.com/lathspell37/tiktok.git
     
    __Go to project directory__
+   
       cd tiktok
       
    __Install required packages__
+   
       npm install
       
    __Run the server__
+   
       npx react-native start
       
    __Install the app on the emulator or on your phone__
+   
       npx react-native run-android || npx react-native run-ios
