@@ -21,8 +21,7 @@
     
 ----------------------------------------------------------------------
     
-    ## Run on computer
-    
+        
     **Clone this project**
       git clone https://github.com/lathspell37/tiktok.git
     
